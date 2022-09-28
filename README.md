@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @seybays
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Python and Flask
+- 📫 Contact me at sysbsnss@gmail.com
